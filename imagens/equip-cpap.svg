@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="CPAP">
+<rect x="28" y="50" width="144" height="72" rx="18" fill="#F2F2F2" stroke="#CCCCCC" stroke-width="2"/>
+<rect x="48" y="68" width="46" height="32" rx="4" fill="#222222"/>
+<circle cx="136" cy="86" r="19" fill="#E2E2E2"/><circle cx="136" cy="86" r="8" fill="#F2F2F2"/>
+<rect x="42" y="120" width="116" height="14" rx="7" fill="#CCCCCC"/>
+</svg>

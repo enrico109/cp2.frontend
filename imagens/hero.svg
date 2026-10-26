@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="fundo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E5A40"/><stop offset="1" stop-color="#4F7F5C"/></linearGradient>
+<filter id="desfoque"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1600" height="400" fill="url(#fundo)"/>
+<g filter="url(#desfoque)" fill="#3E6B52">
+<circle cx="120" cy="90" r="110"/><circle cx="380" cy="40" r="90" fill="#274D38"/><circle cx="560" cy="150" r="100" fill="#5C8C69"/>
+<circle cx="1040" cy="60" r="100" fill="#274D38"/><circle cx="1260" cy="130" r="120" fill="#5C8C69"/><circle cx="1500" cy="50" r="110"/>
+<circle cx="250" cy="300" r="120" fill="#5C8C69"/><circle cx="1350" cy="320" r="120" fill="#274D38"/>
+</g>
+<g stroke="#E9BE9F" stroke-width="44" stroke-linecap="round" fill="none">
+<path d="M740 420 Q520 330 330 150"/><path d="M860 420 Q1080 330 1270 90"/>
+</g>
+<g fill="#E9BE9F"><ellipse cx="320" cy="135" rx="38" ry="22" transform="rotate(-50 320 135)"/><ellipse cx="1278" cy="80" rx="38" ry="22" transform="rotate(-60 1278 80)"/></g>
+<path d="M690 420 Q700 340 800 330 Q900 340 910 420Z" fill="#E9BE9F"/>
+<ellipse cx="800" cy="285" rx="82" ry="105" fill="#A8744A"/>
+<path d="M730 330 Q800 380 870 330 L880 400 H720Z" fill="#8F6140"/>
+</svg>

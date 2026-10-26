@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" role="img" aria-label="Cilindro de oxigênio">
+<rect x="88" y="14" width="24" height="26" rx="4" fill="#0B3C49"/><rect x="70" y="34" width="60" height="22" rx="8" fill="#F2A541"/>
+<rect x="50" y="52" width="100" height="216" rx="46" fill="#1AA6B7"/>
+<rect x="50" y="130" width="100" height="44" fill="#E6F4F1"/>
+<text x="100" y="159" font-family="Sora,Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#0B3C49">O₂</text>
+</svg>
